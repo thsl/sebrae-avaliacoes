@@ -1,0 +1,25 @@
+.navbar-sebrae{
+  background: $azul-sebrae url("#{$image-path-theme}/bgtop-sebrae.jpg") repeat-x;
+  background-size: 100%;
+  padding: 2rem 0 8rem 0;
+  z-index: 0;
+}
+.navbar-sebrae{
+  .logo-sebrae{
+    width: 5rem;
+    margin: 0 auto;
+  }
+}
+
+.container-custom{
+  max-width: 780px;
+  background-color: $white;
+  padding: 2em;
+  border-radius: 0.25em;
+  margin-top: -5em;
+  position: relative;
+  box-shadow: $box-shadow-lg;
+}
+.btn-group-avaliacao{
+
+}
